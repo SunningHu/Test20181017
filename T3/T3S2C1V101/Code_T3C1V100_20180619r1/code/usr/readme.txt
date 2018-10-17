@@ -58,4 +58,4 @@ create a new project.
  * <h3><center>&copy; COPYRIGHT 2011 STMicroelectronics</center></h3>
  */
 
-add git
+add git  2 verison
