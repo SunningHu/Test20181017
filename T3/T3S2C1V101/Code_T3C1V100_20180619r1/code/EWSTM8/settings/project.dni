@@ -1,0 +1,89 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=610203247
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[array_types]
+Fmt0=uint16_t[100]	4	0
+Fmt1=uint16_t[8]	3	0
+Fmt2=uint8_t[100]	4	0
+[watch_formats]
+Fmt0={W}0:ChipID	4	0
+Fmt1={W}0:crc	4	0
+Fmt2={W}0:ps	4	0
+Fmt3={W}0:rt	3	0
+Fmt4={W}0:x	3	0
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\usr\tsys01.c}.858.21" 0 0 0 0 "" 0 ""
+Count=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\code\lib\src\stm8l15x_clk.c" ""
+A1=_ "C:\code\lib\src\stm8l15x_dma.c" ""
+A2=_ "C:\code\lib\src\stm8l15x_gpio.c" ""
+A3=_ "C:\code\lib\src\stm8l15x_lcd.c" ""
+A4=_ "C:\code\lib\src\stm8l15x_usart.c" ""
+A5=_ "C:\code\usr\lcd.c" ""
+A6=_ "C:\code\usr\main.c" ""
+A7=_ "C:\code\usr\stm8l15x_it.c" ""
+A8=_ "C:\code\usr\uart.c" ""
+A9=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_clk.c" ""
+A10=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_dma.c" ""
+A11=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_flash.c" ""
+A12=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_gpio.c" ""
+A13=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_iwdg.c" ""
+A14=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_lcd.c" ""
+A15=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_rst.c" ""
+A16=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_tim4.c" ""
+A17=_ "D:\进行中的项目\台湾温度记录仪\code\lib\src\stm8l15x_usart.c" ""
+Count=18
+SuppressDialog=0

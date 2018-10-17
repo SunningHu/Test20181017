@@ -1,0 +1,53 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-1799945081
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$}.74.1" 0 0 0 0 "" 0 ""
+Count=1
+[Aliases]
+A0=_ "C:\Users\i winter\Desktop\全自动标定系统继电器调试\code\usr\main.c" ""
+A1=_ "E:\项目\T2项目\程序\Code_T2C1V100_20170103r1\code\lib\src\stm8l15x_gpio.c" ""
+A2=_ "E:\项目\T2项目\程序\Code_T2C1V100_20170103r1\code\lib\src\stm8l15x_tim4.c" ""
+A3=_ "E:\项目\T2项目\程序\Code_T2C1V100_20170103r1\code\lib\src\stm8l15x_usart.c" ""
+A4=_ "E:\项目\T2项目\程序\Code_T2C3V100_20170310r1\code\usr\main.c" ""
+A5=_ "E:\项目\T2项目\程序\Code_T2C3V100_20170310r2\Code_T2C3V100_20170310r1\code\usr\main.c" ""
+A6=_ "E:\项目汇总\嵌入式\T3\Code_T2C3V100_20170510r1\Code_T2C3V100_20170510r1\code\Drive\src\DriveEEprom.c" ""
+Count=7
+SuppressDialog=1

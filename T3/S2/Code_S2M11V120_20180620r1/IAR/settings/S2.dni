@@ -1,0 +1,50 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-897121569
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "E:\Work\项目汇总\嵌入式\T3\S2\Code_S2M1V120_20180620r1\Main\main.c" ""
+A1=_ "E:\Work\项目汇总\嵌入式\T3\S2\Code_S2M1V120_20180620r1\User\src\adcmd.c" ""
+A2=_ "E:\Work\项目汇总\嵌入式\T3\S2\Code_S2M1V120_20180620r1\User\src\gui.c" ""
+A3=_ "E:\Work\项目汇总\嵌入式\T3\S2\Code_S2M1V120_20180620r1\User\src\measure.c" ""
+A4=_ "E:\Work\项目汇总\嵌入式\T3\S2\Code_S2M1V120_20180620r1\User\src\viewMain.c" ""
+A5=_ "E:\Work\项目汇总\嵌入式\T3\S2\Code_S2M1V120_20180620r1\User\src\viewPrognm.c" ""
+A6=_ "E:\项目汇总\嵌入式\信号发生器\S2\Code_S2M1V100_20171213r1\User\src\TC.c" ""
+A7=_ "E:\项目汇总\信号发生器\S2\Code_S2M1V100_20170526r1\User\src\key.c" ""
+A8=_ "E:\项目汇总\信号发生器\S2\Code_S2M1V100_20170717r1\User\src\gui.c" ""
+A9=_ "E:\项目汇总\信号发生器\S2\Code_S2M1V100_20170717r1\User\src\viewPrognm.c" ""
+A10=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_clk.c" ""
+A11=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_gpio.c" ""
+A12=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_i2c.c" ""
+A13=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_tim2.c" ""
+A14=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_usart.c" ""
+A15=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\User\src\dodata.c" ""
+A16=_ "E:\项目汇总\信号发生器\S2\S2MV3.6\User\src\key.c" ""
+Count=17
+SuppressDialog=0

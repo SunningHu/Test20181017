@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<CommParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Addr>1</Addr>
+  <ComPort>5</ComPort>
+  <Baudrate>57600</Baudrate>
+  <Parity>None</Parity>
+</CommParam>

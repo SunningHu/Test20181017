@@ -1,0 +1,116 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=772639020
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[watch_formats]
+Fmt0={W}0:u8AutoPowerOff	3	0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\viewSweep.c}.55.3" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.55.1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.164.5" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\viewFrame.c}.93.1" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.504.5" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.413.7" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.414.7" 0 0 0 0 "" 0 ""
+Bp7=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\viewFrame.c}.93.3" 0 0 0 0 "" 0 ""
+Bp8=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\viewFrame.c}.95.3" 0 0 0 0 "" 0 ""
+Bp9=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.389.1" 0 0 0 0 "" 0 ""
+Bp10=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.1001.5" 0 0 0 0 "" 0 ""
+Bp11=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.1001.5" 0 0 0 0 "" 0 ""
+Bp12=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.1001.5" 0 0 0 0 "" 0 ""
+Bp13=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.389.9" 0 0 0 0 "" 0 ""
+Bp14=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.676.9" 0 0 0 0 "" 0 ""
+Bp15=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.26.3" 0 0 0 0 "" 0 ""
+Bp16=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.287.7" 0 0 0 0 "" 0 ""
+Bp17=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.288.11" 0 0 0 0 "" 0 ""
+Bp18=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.51.7" 0 0 0 0 "" 0 ""
+Bp19=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.383.9" 0 0 0 0 "" 0 ""
+Bp20=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.384.23" 0 0 0 0 "" 0 ""
+Bp21=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.386.9" 0 0 0 0 "" 0 ""
+Bp22=_ "STD_CODE" "{C:\Users\Administrator\Desktop}.974.5" 0 0 0 0 "" 0 ""
+Bp23=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.83.7" 0 0 0 0 "" 0 ""
+Bp24=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.94.9" 0 0 0 0 "" 0 ""
+Bp25=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.82.9" 0 0 0 0 "" 0 ""
+Bp26=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.126.9" 0 0 0 0 "" 0 ""
+Bp27=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.197.5" 0 0 0 0 "" 0 ""
+Bp28=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.84.5" 0 0 0 0 "" 0 ""
+Count=29
+[Aliases]
+A0=_ "E:\Work\项目汇总\嵌入式\T3\S1\code_S1MV130_20180620r3\S1MV1\Main\main.c" ""
+A1=_ "E:\Work\项目汇总\嵌入式\T3\S1\code_S1MV130_20180620r3\S1MV1\User\src\adcmd.c" ""
+A2=_ "E:\Work\项目汇总\嵌入式\T3\S1\code_S1MV130_20180620r3\S1MV1\User\src\gui.c" ""
+A3=_ "E:\项目汇总\嵌入式\信号发生器\S1\code_S1MV122_20180104r3\S1MV1\Main\main.c" ""
+A4=_ "E:\项目汇总\嵌入式\信号发生器\S1\code_S1MV122_20180104r3\S1MV1\User\src\TC.c" ""
+A5=_ "E:\项目汇总\信号发生器\S1\code_S1MV122_20170825r3\S1MV1\Main\main.c" ""
+A6=_ "E:\项目汇总\信号发生器\S1\code_S1MV122_20170825r3\S1MV1\Main\stm8l15x_it.c" ""
+A7=_ "E:\项目汇总\信号发生器\S1\code_S1MV122_20170825r3\S1MV1\User\src\TC.c" ""
+A8=_ "E:\项目汇总\信号发生器\S1\code_S1MV122_20170825r3\S1MV1\User\src\key.c" ""
+A9=_ "F:\徐冬\美控\信号发生器\code_S1MV110_r2\S1MV1\Main\main.c" ""
+A10=_ "F:\徐冬\美控\信号发生器\code_S1MV110_r2\S1MV1\Main\stm8l15x_it.c" ""
+A11=_ "F:\徐冬\美控\信号发生器\code_S1MV110_r2\S1MV1\User\src\TC.c" ""
+A12=_ "F:\徐冬\美控\信号发生器\code_S1MV110_r2\S1MV1\User\src\key.c" ""
+Count=13
+SuppressDialog=0

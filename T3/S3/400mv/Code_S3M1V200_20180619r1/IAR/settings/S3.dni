@@ -1,0 +1,39 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-1079803949
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "E:\Work\项目汇总\嵌入式\T3\S3\Code_S3M1V101_20180320r1\Main\main.c" ""
+A1=_ "E:\项目汇总\信号发生器\万分之五\Code_S3M1V100_20170905r1\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_i2c.c" ""
+A2=_ "E:\项目汇总\信号发生器\万分之五\Code_S3M1V100_20170905r1\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_tim5.c" ""
+A3=_ "E:\项目汇总\信号发生器\万分之五\Code_S3M1V100_20170905r1\Main\main.c" ""
+A4=_ "E:\项目汇总\信号发生器\万分之五\Code_S3M1V100_20170905r1\User\src\DriveEEprom.c" ""
+A5=_ "E:\项目汇总\信号发生器\万分之五\Code_S3M1V100_20171128r1\Code_S3M1V100_20171128r1\Main\main.c" ""
+Count=6
+SuppressDialog=1

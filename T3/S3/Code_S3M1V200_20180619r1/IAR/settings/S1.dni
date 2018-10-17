@@ -1,0 +1,100 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1534114406
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[watch_formats]
+Fmt0={W}0:u8AutoPowerOff	3	0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\viewSweep.c}.55.3" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\adcmd.c}.168.5" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$}.89.1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.504.5" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.413.7" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$}.414.7" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.89.3" 0 0 0 0 "" 0 ""
+Bp7=_ "STD_CODE" "{$PROJ_DIR$}.91.3" 0 0 0 0 "" 0 ""
+Bp8=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\IAR6.5\common\bin}.457.1" 0 0 0 0 "" 0 ""
+Bp9=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.1001.5" 0 0 0 0 "" 0 ""
+Bp10=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.1001.5" 0 0 0 0 "" 0 ""
+Bp11=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.1001.5" 0 0 0 0 "" 0 ""
+Bp12=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.611.9" 0 0 0 0 "" 0 ""
+Bp13=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.888.9" 0 0 0 0 "" 0 ""
+Bp14=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.26.3" 0 0 0 0 "" 0 ""
+Bp15=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.287.7" 0 0 0 0 "" 0 ""
+Bp16=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.288.11" 0 0 0 0 "" 0 ""
+Bp17=_ "STD_CODE" "{$PROJ_DIR$}.51.7" 0 0 0 0 "" 0 ""
+Bp18=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.605.9" 0 0 0 0 "" 0 ""
+Bp19=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.606.23" 0 0 0 0 "" 0 ""
+Bp20=_ "STD_CODE" "{$PROJ_DIR$\..\User\src\dodata.c}.608.9" 0 0 0 0 "" 0 ""
+Bp21=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.974.5" 0 0 0 0 "" 0 ""
+Bp22=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.82.9" 0 0 0 0 "" 0 ""
+Bp23=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.126.9" 0 0 0 0 "" 0 ""
+Bp24=_ "STD_CODE" "{$PROJ_DIR$\..\User\src}.84.5" 0 0 0 0 "" 0 ""
+Count=25
+[Aliases]
+A0=_ "D:\STM8\信号发生器升级版\S2MV3.2\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_tim2.c" ""
+Count=1
+SuppressDialog=1

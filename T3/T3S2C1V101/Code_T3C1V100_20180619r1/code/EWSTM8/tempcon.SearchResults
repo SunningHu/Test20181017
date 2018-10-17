@@ -1,0 +1,8 @@
+---- sys_var.rs_num Matches (7 in 0 files) ----
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):        sys_var.rs_num = eep_read32(REG_RS_NUM);
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):        sys_var.rs_num = sys_var.record_now;
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):        sys_var.rs_num = 0;
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):        eep_write32(REG_RS_NUM, sys_var.rs_num);
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):    ms_cmd3[7] = sys_var.rs_num >> 16;
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):    ms_cmd3[8] = sys_var.rs_num & 0xffff;
+Eep.c (g:\已完成项目\台湾温度记录仪\code\usr):    if(sys_var.rs_num )
